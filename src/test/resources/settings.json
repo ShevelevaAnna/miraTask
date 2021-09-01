@@ -1,0 +1,9 @@
+{
+  "testSettings": {
+    "mainPage": "https://lmslite47vr.demo.mirapolis.ru/mira",
+    "browser" : "c",
+    "localization" : "ru",
+    "timeWait" : "30",
+    "pathScreenshot": "./screenshot/image.png"
+  }
+}
